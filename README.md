@@ -1,2 +1,2 @@
 # Web-Dev
-Web development course from KBTU 2023
+##Web development course from KBTU 2023
